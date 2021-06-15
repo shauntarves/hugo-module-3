@@ -1,0 +1,7 @@
+baseURL = "/"
+disableKinds = ["RSS", "taxonomyTerm"]
+enableMissingTranslationPlaceholders = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/shauntarves/hugo-module-2"
