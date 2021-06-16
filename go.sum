@@ -1,2 +1,5 @@
 github.com/shauntarves/hugo-module-1 v1.0.2/go.mod h1:FQLMX7SwVEDCtuIMZZdbqgxe4cdAlMgLyrCXL0iwvoc=
+github.com/shauntarves/hugo-module-2 v1.0.0 h1:avD1RrtEO9ad1ElvJCpmeHEmbPULC+I/uEidO22udlg=
 github.com/shauntarves/hugo-module-2 v1.0.0/go.mod h1:D/0Zq2M8i8ARYhrfMgV9nWXtPUxG2zeSNDSODg7dNaE=
+github.com/shauntarves/hugo-module-2 v1.0.1 h1:QloD/19zIh2u4FJSwZEijbF5G0elxz9wHTNbEWbq8L8=
+github.com/shauntarves/hugo-module-2 v1.0.1/go.mod h1:D/0Zq2M8i8ARYhrfMgV9nWXtPUxG2zeSNDSODg7dNaE=
